@@ -1,0 +1,11 @@
+h1 {
+    color: palevioletred;
+}
+
+img {
+    width: 50%;
+}
+
+table, tr, td {
+    border: 2px solid black;
+}
